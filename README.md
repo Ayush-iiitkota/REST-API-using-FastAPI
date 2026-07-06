@@ -1,7 +1,7 @@
 <h1 align="center">🚀 FastAPI CRUD REST API with MySQL</h1>
 
 <p>
-A RESTful CRUD API built using <b>FastAPI</b> and <b>MySQL Server 8.0</b> that performs complete <b>Create, Read, Update, and Delete (CRUD)</b> operations on user records. The API uses <b>Pydantic</b> for request validation and was tested using <b>Postman</b> to ensure accurate endpoint functionality and seamless database interaction.
+This project demonstrates the development of a <b>REST API</b> using <b>FastAPI</b> and <b>MySQL Server 8.0</b> to perform complete <b>Create, Read, Update, and Delete (CRUD)</b> operations on user records. The API leverages <b>Pydantic</b> for request validation and was tested using <b>Postman</b> to verify endpoint functionality and ensure seamless interaction with the MySQL database.
 </p>
 
 <hr>
