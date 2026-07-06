@@ -27,7 +27,7 @@ This project demonstrates the development of a <b>REST API</b> using <b>FastAPI<
   <li><b>FastAPI</b></li>
   <li><b>MySQL Server 8.0</b></li>
   <li><b>Pydantic</b></li>
-  <li><b>MySQL Connector/Python</b></li>
+  <li><b>MySQL Connector/PyMysql</b></li>
   <li><b>Postman</b></li>
 </ul>
 
