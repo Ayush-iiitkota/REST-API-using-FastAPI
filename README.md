@@ -1,5 +1,4 @@
-<h1 align="center">🚀 FastAPI CRUD REST API with MySQL</h1>
-
+<h1 align="center">💻 User Management System (CRUD)| REST API using FastAPI</h1>
 <p>
 This project demonstrates the development of a <b>REST API</b> using <b>FastAPI</b> and <b>MySQL Server 8.0</b> to perform complete <b>Create, Read, Update, and Delete (CRUD)</b> operations on user records. The API leverages <b>Pydantic</b> for request validation and was tested using <b>Postman</b> to verify endpoint functionality and ensure seamless interaction with the MySQL database.
 </p>
@@ -79,6 +78,14 @@ This project demonstrates the development of a <b>REST API</b> using <b>FastAPI<
 
 <p>
 All REST API endpoints were tested using <b>Postman</b> to verify request handling, database connectivity, and CRUD functionality.
+</p>
+
+<hr>
+
+<h2>🌍 Real-World Use Case</h2>
+
+<p>
+This project serves as the backend for applications that require user data management. It provides RESTful endpoints to create, retrieve, update, and delete user records stored in a MySQL database. Such functionality is commonly used in employee management systems, student portals, customer management applications, healthcare systems, and other platforms that require efficient record management.
 </p>
 
 <hr>
